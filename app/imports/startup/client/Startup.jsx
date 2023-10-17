@@ -10,3 +10,4 @@ Meteor.startup(() => {
   );
   root.render(<App />);
 });
+
